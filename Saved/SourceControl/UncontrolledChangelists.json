@@ -104,7 +104,14 @@
 				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack_Sprite.uasset",
 				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
 				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
-				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Blueprints/BP_Samurai.uasset"
+				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Blueprints/BP_Samurai.uasset",
+				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Blueprints/BP_Samurai_player.uasset",
+				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Blueprints/GM_Duel.uasset",
+				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
+				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Blueprints/BP_Exclamation.uasset",
+				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Input/Actions/IA_Attack.uasset",
+				"/Users/matthewwiblin/Desktop/Projects/unreal-projects/QuickDraw/Content/Input/IMC_Duel.uasset"
 			]
 		}
 	]
